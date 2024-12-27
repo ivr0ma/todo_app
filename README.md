@@ -2,6 +2,7 @@
 
 ## Overview
 The `todo_app` service is a backend API for managing tasks. It uses SQLite as its database and provides a RESTful API to perform CRUD (Create, Read, Update, Delete) operations on tasks.
+This module is part of the [orchestrator_api](https://github.com/ivr0ma/orchestrator_api) project, which integrates multiple services to provide a unified platform for managing tasks and shortening URLs.
 
 ## Features
 - Create tasks with a title and description.
